@@ -1,0 +1,1 @@
+# Webp-detect-by-javascript
